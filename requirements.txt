@@ -1,0 +1,7 @@
+excel2img
+openpyxl
+Pillow>=3.3.1
+pypiwin32
+pywin32>=223
+et-xmlfile
+jdcal
